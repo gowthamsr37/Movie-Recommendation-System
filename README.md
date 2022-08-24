@@ -1,7 +1,6 @@
 # Movie-Recommendation-System
 This is a content based recommendation system which will take a movie name as an input and recommends 5 movies.
-Model is trained and deployed in heroku platform, link: (https://movie-recmd-system.herokuapp.com/)
-
+Model is trained and deployed in heroku platform, link: https://movie-recmndation-gowtham.herokuapp.com/
 Dataset link:
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv
 
